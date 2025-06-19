@@ -1,6 +1,7 @@
 # LangSpace_mapping
 
 Abstract:
+
 Accurate 3D scene understanding is essential for
 robotics and augmented reality (AR), where high-quality
 instance segmentation and semantic scene graphs enable
@@ -25,3 +26,5 @@ strates the effectiveness of incorporating object-level priors
 for more complete and accurate 3D scene representations,
 and lays the groundwork for injecting instance-specific se-
 mantics and affordances into scene graphs.
+
+Check LangSpace_mapping.pdf for more details.
